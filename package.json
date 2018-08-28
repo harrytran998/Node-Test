@@ -17,7 +17,9 @@
     "url": "https://github.com/jetaimefrc/Node-Test/issues"
   },
   "homepage": "https://github.com/jetaimefrc/Node-Test#readme",
-  "dependencies": {},
+  "dependencies": {
+    "eslint": "^5.4.0"
+  },
   "devDependencies": {
     "expect": "^23.5.0",
     "mocha": "^5.2.0",
